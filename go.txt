@@ -1,0 +1,3 @@
+Hi,
+
+New go file has been created
